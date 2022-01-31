@@ -1,9 +1,5 @@
-<link link href="style.css" rel="stylesheet"></link>
+<link href="style.css" rel="stylesheet"></link>
 <h1>Hi There!</h1>
-
-<img src="http://hits.dwyl.com/zacwastaken/zacwastaken.svg?style=flat-square&show=unique"/>
-
-
 
 I'm Samuel, but you'll see me as Zac on the internet. I'm a Colombian Software Engineering at [ICESI University](https://www.icesi.edu.co/es/), and I enjoy learning new languages and going above and beyond the limits of our technologies. I like code that's fun, useful, or both. I'm also very keen on UI/UX design and, well, designing in general.Thanks for stopping by! For business, contact me [here](seamzacdisc1@gmail.com]
 
@@ -21,7 +17,7 @@ I'm Samuel, but you'll see me as Zac on the internet. I'm a Colombian Software E
 
   <h1>Languages</h1>
 
-  <div class="langs">
+  <div>
     <p>
       <img src="https://img.shields.io/badge/Java-e3ae78?style=for-the-badge&logo=java&logoColor=black"/>
       <img src="https://img.shields.io/badge/HTML5-eda18c?style=for-the-badge&logo=html5&logoColor=black"/>
