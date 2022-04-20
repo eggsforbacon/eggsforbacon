@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Hi There!</h1>
-    <p>I'm Samuel, but you'll see me as Zac on the internet. I'm a Colombian Software Engineering at <a href="https://www.icesi.edu.co/es/">ICESI University</a>, and I enjoy learning new languages and going above and beyond the limits of our technologies. I like code that's fun, useful, or both. I'm also very keen on UI/UX design and, well, designing in general.Thanks for stopping by! For business, contact me <a href="seamzacdisc1@gmail.com">here</a></p>
+    <p>I'm Samuel, but you'll see me as Zac on the internet. I'm a Colombian Software Engineering at <a href="https://www.icesi.edu.co/es/">ICESI University</a>, and I enjoy learning new languages and going above and beyond the limits of our technologies. I like code that's fun, useful, or both. I'm also very keen on UX/UI design and, well, designing in general.Thanks for stopping by! For business, contact me <a href="seamzacdisc1@gmail.com">here</a></p>
     <span></span>
     <div align="center">
       <h1>Profile Stats</h1>
