@@ -10,8 +10,8 @@
     <div align="center">
       <h1>Profile Stats</h1>
       <p align="center" class="cards">
-      <img src="https://github-readme-stats.vercel.app/api?username=zacwastaken&show_icons=true&theme=onedark&count_privat=true&line_height=25&hide_border=true" alt="Anurag's GitHub stats"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=zacwastaken&theme=onedark&hide_border=true&date_format=n%2Fj%5B%2FY%5D"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=zacwastaken&show_icons=true&theme=react&count_privat=true&line_height=25&hide_border=true" alt="Anurag's GitHub stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=zacwastaken&theme=react&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak"/>
       </p>
       <h1>Languages</h1>
       <div>
@@ -23,7 +23,7 @@
           <img src="https://img.shields.io/badge/Python-f7dd81?style=for-the-badge&logo=python&logoColor=blue"/>
           <img src="https://img.shields.io/badge/C%23-89d487?style=for-the-badge&logo=c-sharp&logoColor=black"/>
         </p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacwastaken&langs_count=5&theme=onedark&line_height=25&hide_border=true&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacwastaken&langs_count=5&theme=react&line_height=25&hide_border=true&layout=compact" />
       </div>
       <h1>Tools</h1>
       <p>
